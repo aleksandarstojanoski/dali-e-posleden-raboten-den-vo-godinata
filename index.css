@@ -13,6 +13,7 @@ body {
     background: url('./background.png');
     background-size: cover;
     background-repeat: no-repeat;
+    text-shadow: 0 0 10px #FFF, 0 0 10px #FFF;
 }
 
 main {
